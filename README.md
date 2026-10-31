@@ -1,34 +1,57 @@
-## Hi there 👋 I'm Jitin Jadwani
+# Jitin Jadwani
 
-B.Tech Artificial Intelligence Student | 2028
+**B.Tech Artificial Intelligence Student | Class of 2028**
 
-I'm interested in building practical software
-solutions using AI, machine learning and web
-technologies.
+I’m an undergraduate student interested in building practical software projects at the intersection of artificial intelligence, machine learning, and software development.
 
-## What I'm Working On
-- AI-powered applications
-- Full-stack development
-- Machine learning projects
-- Open-source contributions
+I use GitHub to document what I build, improve my engineering skills, and contribute to open-source projects.
+
+---
+
+## About
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence
+- 🧠 Exploring AI/ML and practical software engineering
+- 🛠️ Building academic and personal projects
+- 🌱 Learning through hands-on development and open source
 
 ## Featured Projects
 
-### BlockSphere
-Blockchain-based event ticket booking prototype.
-React, Solidity, Hardhat, MetaMask.
+### [BlockSphere](https://github.com/Jitin7Coder/BlockSphere)
+A blockchain-based event ticket booking prototype.
 
-### DriveDoctor-AI
-Multimodal AI vehicle diagnosis assistant.
+**Worked with:** React, JavaScript, Solidity, Hardhat, MetaMask and ethers.js.
 
-### Python Spotify
-A data science project exploring relationships
-between music genres and sleep duration.
+### [DriveDoctor-AI](https://github.com/Jitin7Coder/DriveDoctor-AI)
+An AI-powered multimodal vehicle diagnosis and maintenance assistant.
 
-## Technologies
-Java | Python | JavaScript | React | Solidity
-Git | GitHub | Hardhat
+### [Python_spotify](https://github.com/Jitin7Coder/Python_spotify)
+An exploratory data science project investigating the relationship between music genres and sleep duration.
+
+## Technologies & Tools
+
+**Currently learning and practising**
+- C, Java and Python
+- Data structures, problem solving and software development
+
+**Project experience**
+- JavaScript, React
+- Solidity, Hardhat, MetaMask
+- Git and GitHub
+
+## Beyond Projects
+
+I’m interested in:
+- Open-source collaboration
+- AI and machine learning applications
+- Building useful, well-documented software
+- Learning from developer communities
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/jitin-jai-jadwani/)
-[HackerRank](https://www.hackerrank.com/profile/2024_jitin_jadw1)
+
+- [LinkedIn](https://www.linkedin.com/in/jitin-jai-jadwani/)
+- [HackerRank](https://www.hackerrank.com/profile/2024_jitin_jadw1)
+
+---
+
+*This profile is a work in progress. I’ll keep updating it as I learn, build, and contribute.*

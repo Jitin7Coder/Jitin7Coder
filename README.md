@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Jitin Jadwani
 
-<!--
-**Jitin7Coder/Jitin7Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Artificial Intelligence Student | 2028
 
-Here are some ideas to get you started:
+I'm interested in building practical software
+solutions using AI, machine learning and web
+technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- AI-powered applications
+- Full-stack development
+- Machine learning projects
+- Open-source contributions
+
+## Featured Projects
+
+### BlockSphere
+Blockchain-based event ticket booking prototype.
+React, Solidity, Hardhat, MetaMask.
+
+### DriveDoctor-AI
+Multimodal AI vehicle diagnosis assistant.
+
+### Python Spotify
+A data science project exploring relationships
+between music genres and sleep duration.
+
+## Technologies
+Java | Python | JavaScript | React | Solidity
+Git | GitHub | Hardhat
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jitin-jai-jadwani/)
+[HackerRank](https://www.hackerrank.com/profile/2024_jitin_jadw1)

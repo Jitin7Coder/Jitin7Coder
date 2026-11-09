@@ -17,15 +17,15 @@ I use GitHub to document what I build, improve my engineering skills, and contri
 
 ## Featured Projects
 
-### [BlockSphere](https://github.com/Jitin7Coder/BlockSphere)
+### [BlockSphere](https://github.com/Jitin7Coder/BlockSphere) (Completed Prototype)
 A blockchain-based event ticket booking prototype.
 
 **Worked with:** React, JavaScript, Solidity, Hardhat, MetaMask and ethers.js.
 
-### [DriveDoctor-AI](https://github.com/Jitin7Coder/DriveDoctor-AI)
+### [DriveDoctor-AI](https://github.com/Jitin7Coder/DriveDoctor-AI) (In development)
 An AI-powered multimodal vehicle diagnosis and maintenance assistant.
 
-### [Python_spotify](https://github.com/Jitin7Coder/Python_spotify)
+### [Python_spotify](https://github.com/Jitin7Coder/Python_spotify) (Archived learning idea)
 An exploratory data science project investigating the relationship between music genres and sleep duration.
 
 ## Technologies & Tools
